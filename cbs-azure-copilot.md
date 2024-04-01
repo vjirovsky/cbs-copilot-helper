@@ -1,12 +1,11 @@
 /* 
  * GitHub Copilot helper file for Pure Cloud Block Store (CBS) deployments
  * Author: Vaclav Jirovsky (@vjirovsky)
- * File version: v0.1
+ * File version: v0.1 - Preview
  * Usage: download this file, open in your IDE and provide it as context for your prompts via initial prompt
- * Example init prompt: **"For following conversation use guidance in file #file:cbs-azure-copilot.md"**
- * *Make sure the part "#file:cbs-azure-copilot.md" gets recognized as file command in a prompt and not just as a text*
+ * Example prompt: **"How to get started with CBS? helper file #file:cbs-azure-copilot.md"**
+ * *Make sure the `#file` token gets recognized as special command (no copy+paste), you need to type it manually*
  */
-
 
 CBS means Pure CLoud Block Store
 
